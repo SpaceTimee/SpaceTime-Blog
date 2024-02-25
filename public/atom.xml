@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SpaceTime Blog</title>
+  
+  <subtitle>Welcome To My Blog ~</subtitle>
+  <link href="https://blog.spacetimee.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://blog.spacetimee.xyz/"/>
+  <updated>2023-10-08T14:01:03.711Z</updated>
+  <id>https://blog.spacetimee.xyz/</id>
+  
+  <author>
+    <name>Space Time</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpaceTime Blog 使用文档</title>
+    <link href="https://blog.spacetimee.xyz/2023/09/20/SpaceTime%20Blog%20%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/"/>
+    <id>https://blog.spacetimee.xyz/2023/09/20/SpaceTime%20Blog%20%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</id>
+    <published>2023-09-20T00:46:21.000Z</published>
+    <updated>2023-10-08T14:01:03.711Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="称呼与执笔"><a href="#称呼与执笔" class="headerlink" title="称呼与执笔"></a>称呼与执笔</h3><p>Space Time 通常使用 我 称呼自己，少数情况下使用 笔者 代称<br>Simu 通常使用 我 称呼自己，少数情况下使用 笔者 或 Simu 代称</p><p>若没有明显标注，博客中所有内容均为 Space Time 创作</p><h3 id="打码与别名"><a href="#打码与别名" class="headerlink" title="打码与别名"></a>打码与别名</h3><p>出于隐私保护，个人喜恶，内容简化，艺术处理，以及 审查 版权 广告 规避等原因，博客中部分内容会进行打码处理，处理后的结果被称为别名，常见的打码处理方式有 正则代字 字符代字 等，正则代字如使用 ^A[a-zA-Z]{2}$ 代替 ABC (有时正则表达式会省略 ^ 和 Dollar Symbol 写作 A[a-zA-Z]{2})，字符代字如使用 B市 代替 北京市，若别名所代指的内容不明，则会在第一次打码处理的位置加上注解，如 这就是我的大学 (X大)，在此之后 我的大学 将使用 X大 代替</p><h3 id="词句与符号"><a href="#词句与符号" class="headerlink" title="词句与符号"></a>词句与符号</h3><p>出于个人喜恶，艺术处理等原因，博客有时会使用一些特殊词句和符号，常见的如使用 校方 指 学校，使用 教育工作者 指 老师，使用 人类 指 人，使用 ? 表示 不确定 不准确 可能不是 的意思，使用 ! 表示强烈感情，或者故意误用一些成语的意思等等，这些特殊词句符号可能并不符合语法规范，但读者能凭大致印象体会到笔者的意思，所以除非有十足的把握确定是笔者打错字了，否则请不要指出文本中的语法错误</p><h3 id="评论与礼仪"><a href="#评论与礼仪" class="headerlink" title="评论与礼仪"></a>评论与礼仪</h3><p>评论区采取高度开放和包容的态度，允许几乎一切观点和看法，但所有评论必须是科学的 理性的 富有逻辑的，不得出现类似于 实火虚火要清热泻火、滋阴降火，实寒虚寒要温热散寒、温补阳气 的评论，对于你不认可的观点，你应用同样理性 科学 且礼貌 的方式参与讨论，评论区禁止阴阳怪气，禁止以任何形式打广告，违反规定的评论将会被删除</p><h3 id="友链与申请"><a href="#友链与申请" class="headerlink" title="友链与申请"></a>友链与申请</h3><p>所有友链都统一放置在友链页，随时欢迎交换友链，友链不只限于博客，其他能够吸引我的网站/网页都可用于交换，交换能否通过完全取决于我个人的主观喜好，其中 内容的类型 质量 数量 原创性、用户的访问量 活跃度 留存率、网站的类型 Logo 网页设计 盈利模式、站长的能力水平 擅长领域 性格人设等等都可能是我会考虑的因素，如果你有交换友链的意愿，请先在你的友链页上正确放置本博客，然后以任何方式告诉我你的博客名称 (不要太长)、Logo (分辨率不小于 400x400，否则会进行图像超分处理) 和 简介? (可参考其他友链的简介，不要太长) (你可以通过友链页评论区、邮箱、Github、Bilibili 私信等等你能找得到的方式联系我)，本博客的名称: SpaceTime Blog，链接: <a href="https://blog.spacetimee.xyz/">https://blog.spacetimee.xyz</a>，Logo: <a href="https://blog.spacetimee.xyz/img/icon/favicon.ico">https://blog.spacetimee.xyz/img/icon/favicon.ico</a>，简介: Welcome To My Blog，如果需要有关本博客的其他信息，或者更改已有友链的信息，也欢迎以任何方式联系我，我会不定期清理失效的或质量不再达标的友链，同时向我特别喜欢的网站/网页主动请求友链</p><h3 id="版权与转载"><a href="#版权与转载" class="headerlink" title="版权与转载"></a>版权与转载</h3><p>博客中所有内容的的著作权归该内容的创作者所有，若未特别注明，一律受到 <strong>CC协议4.0</strong> 保护，其中 日志不得以任何形式转载，博文欢迎转载，但必须在文章正文之前和之后以明显的方式注明原出处 (原出处只能为本博客)，另外，由内容创作者本人搬运自己创作的内容应算作原创而非转载</p>]]></content>
+    
+    
+    <summary type="html">食用前请先阅读此文档</summary>
+    
+    
+    
+    <category term="公告" scheme="https://blog.spacetimee.xyz/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="公告" scheme="https://blog.spacetimee.xyz/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《尘白禁区》二游辩证</title>
+    <link href="https://blog.spacetimee.xyz/2023/08/07/%E3%80%8A%E5%B0%98%E7%99%BD%E7%A6%81%E5%8C%BA%E3%80%8B%E4%BA%8C%E6%B8%B8%E8%BE%A9%E8%AF%81/"/>
+    <id>https://blog.spacetimee.xyz/2023/08/07/%E3%80%8A%E5%B0%98%E7%99%BD%E7%A6%81%E5%8C%BA%E3%80%8B%E4%BA%8C%E6%B8%B8%E8%BE%A9%E8%AF%81/</id>
+    <published>2023-08-07T07:20:09.000Z</published>
+    <updated>2023-09-04T10:00:25.233Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>(笔者截稿时仅体验到《尘白禁区》8月5日之前的的游戏内容，以下完全为笔者的主观体验感受，欢迎直白且礼貌的讨论)</strong></p><p>尘白禁区 (尘白) 在游戏性方面做得很好，独特的 二次元 3D PVE TPS 玩法，有趣的 技能、射击 结合攻击模式</p><p>什么养成、社交、换装、宿舍、爬塔，能缝的全给它缝上了，缝的多也不是什么坏事，只要好玩就行，问题是尘白它的完成度极差，内容少不说，Bug 多到数不过来，地形一复杂，总有几只怪物卡在墙里，遇到这种情况，只能贴墙开枪试试，运气好 枪管穿过去了能把怪打死，运气不到还是打不到就只能重开了，除此之外还有角色被击倒后永久硬直，射击键失灵等等情况发生</p><p>移动端的体验更是难上加难，宿舍设置也没有，(宿舍) 遥感没法固定，(宿舍) 键位也没法调，一只手先放在屏幕上调整方向的话，遥感就会失灵 (该 Bug 已修复)，整的主角在宿舍像个.*一样路都走不好</p><p>人物建模还能看，但是真的太过简单了，特别是宿舍，换了衣服全都长一个样，分都分不清，模型渲染的也不好，我知道尘白是想把模型渲染出手办的感觉，但结算界面的模型能不能不要反光，一反光就会给玩家一种硬塑料材质的感觉</p><p>宿舍有点热水器，简单清纯的涩 (求一个能用来概括这种属性的词语)，个人感觉还不错</p><p>接下来说说尘白的战斗体验，尘白的射击还是有爽感的，但射击手感在电脑端和移动端简直天差地别，特别是打狙的时候，电脑端的狙那真是神器，枪枪爆头，一枪一个，移动端的狙那叫一个废，手动瞄没几枪能打到头上的，自动瞄更是怪都打不着</p><p>剧情方面中规中矩，常规的灾难背景，主角就整天带个小队抢枪物资，打打敌人，就救好人，救完人质救队友，一章一个小任务，也就只有 那什么神经切除手术、对妹妹和自己模模糊糊的回忆 这些情节能把剧情串联起来了 (现在二游剧情开头用流水账 介绍背景、做铺垫 的操作很常见，后续更新的剧情中不一定还会有这些问题)</p><p>因为现在内容少，所以尘白把很多常驻玩法流程做的又臭又长，奖励给的又扣又少，那个联机爬塔的玩法，要重复打多少遍才能把奖励拿完，我现在都懒得去打了，之前资源关甚至连扫荡都没有，每天还得一遍遍手动清体力 (现在已经可以扫荡了)，还有宿舍的日常捡垃圾，要操作那残疾的遥感把整个宿舍跑一遍，跑完也捞不到什么奖励</p><p>再说说角色技能设计的问题，现在给我的感觉就是，有些鸡肋，角色技能不像大部分二游那样是作为 主要战斗机制 的，而更像是射击这种主要输出手段的补充，换言之，即使没有技能，关卡照样也能打</p><p>最后补充一下尘白在练度养成和抽卡方面的问题，前期把可肝的配置拉满并不难，后期我不知道，但根据二游的一贯尿性，我感觉资源应该是会挺紧张的</p><p>抽卡福利给的太少了，送的卡连新手池都抽不满，常驻玩法送的也一般，等后续玩法多起来之后应该会更好一些</p><p>送卡送的少就算了，卡池设计的还依托答辩，武器池、活动角色池只要不歪就是欧皇了，活动角色池歪了还能拿到一个常驻五星角色用，武器池歪了呢？要是练的角色中恰好又没有能用这把武器的，那这号基本就废了</p><p>总的来讲，我相信尘白如果好好做，未来还是能成为一款佳作的，毕竟游戏开服时的人气已经很不错了，游戏最根本的玩法啊美术风格啊世界观啊都是很在线的，从开服到现在尘白官方也做了大量改进</p><p>尘白的根是很好的，最大的问题恐怕就是公测公的太急了，要是当初能在娘胎里多打磨一会儿，等成熟了再放出来，我相信现在的游戏体验肯定会好得多，但既然已经放出来了，也只能拼尽全力弥补，多花些精力，赶紧把本该在娘胎里做的事给做了，尘白一定能完成真正的蜕变 <strong>•ᴗ•</strong></p>]]></content>
+    
+    
+    <summary type="html">一个未来可期的早产游</summary>
+    
+    
+    
+    <category term="评价" scheme="https://blog.spacetimee.xyz/categories/%E8%AF%84%E4%BB%B7/"/>
+    
+    <category term="游戏" scheme="https://blog.spacetimee.xyz/categories/%E8%AF%84%E4%BB%B7/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="评价" scheme="https://blog.spacetimee.xyz/tags/%E8%AF%84%E4%BB%B7/"/>
+    
+    <category term="txt" scheme="https://blog.spacetimee.xyz/tags/txt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Re 从零开始的 WPF 汉堡菜单 (前传)</title>
+    <link href="https://blog.spacetimee.xyz/2022/03/15/Re%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%20WPF%20%E6%B1%89%E5%A0%A1%E8%8F%9C%E5%8D%95%20(%E5%89%8D%E4%BC%A0)/"/>
+    <id>https://blog.spacetimee.xyz/2022/03/15/Re%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%20WPF%20%E6%B1%89%E5%A0%A1%E8%8F%9C%E5%8D%95%20(%E5%89%8D%E4%BC%A0)/</id>
+    <published>2022-03-15T01:34:06.000Z</published>
+    <updated>2023-08-08T08:26:52.426Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>(本文为项目 Ona Pix 的部分开发记录，项目基于 WPF .Net5 框架，开源地址: <a href="https://github.com/SpaceTimee/Ona-Pix">https://github.com/SpaceTimee/Ona-Pix</a>)</strong></p><p>作为一个未来想要成为 Pixiv 第三方客户端的 “大项目”，给 Ona Pix 添加一个设置窗口当然是必不可少的，要想做设置窗口，我第一个想到的就是 Hamberger Menu，汉堡菜单，一个我从爆伯的 UWP 教程中学到的名词</p><p><img src="/img/illustration/BV1is41197MU.png" alt="BV1is41197MU"></p><p>左侧一栏目录，右侧显示内容，肥肠地不辍。我重新看了一遍视频，原来爆伯使用的是一个叫做 SplitView 的控件，那太好了，作为一名资深 CV 党，只需要把代码 Copy 下来，再微改几下，应该就能轻松秒杀了，我心里暗自窃喜，没想到这么轻松就搞定了，完全没难度嘛 ~</p><p>虽然但是，然而然而，我的直觉却告诉我，这一切并没有这么简单。其实当我看到 SplitView 这个名字的时候，我心里就凉了半截，以前好像没在工具栏里看到过这个控件啊？该不会是 WinUI 特有的控件吧，但我转念一想，人家 Hyperlink 不也不在工具栏里吗，不照样能在 Label 里使用，我如是安慰自己，抱着试一试的心态，输入 SplitView</p><blockquote><p>Error: 未找到类型“SplitView”。请确保不缺少程序集引用并且已生成所有引用的程序集</p></blockquote><p>好吧，这下是真的彻底寄了，WPF 果然还是没有 SplitView 控件。目前我能想到的，还有2个办法，第一个，在 WPF 中引入 UWP 控件；第二个，自己从零开始手写一个汉堡菜单。两个想法都挺不错，反正做项目的目的也是为了学习新技术，不如两个方案都试一下，我想先试试第二个。</p><p><strong>[To Be Continued •ᴗ•]</strong></p>]]></content>
+    
+    
+    <summary type="html">服务员，上汉堡菜单!</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="C#" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/C/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="SoftWare" scheme="https://blog.spacetimee.xyz/tags/SoftWare/"/>
+    
+    <category term="C#" scheme="https://blog.spacetimee.xyz/tags/C/"/>
+    
+    <category term="WPF" scheme="https://blog.spacetimee.xyz/tags/WPF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++乱码从入门到放弃</title>
+    <link href="https://blog.spacetimee.xyz/2021/01/30/C++%E4%B9%B1%E7%A0%81%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83/"/>
+    <id>https://blog.spacetimee.xyz/2021/01/30/C++%E4%B9%B1%E7%A0%81%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83/</id>
+    <published>2021-01-30T06:32:06.000Z</published>
+    <updated>2023-08-08T08:29:43.074Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>(本文采用C++11标准) (本文使用到的库文件:iostream)</strong></p><p>话说前几天，我在一篇文章中看见一个加了两对大括号的main函数 (大概长下面这样)</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-comment">//一些必要的预处理代码...吧啦吧啦吧啦...</span><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    &#123;<br>       <span class="hljs-comment">//代码主体...吧啦吧啦吧啦...</span><br>&#125;<br>&#125;<br></code></pre></td></tr></table></figure><p>当时我一脸懵哔，这是神马语法，能通过编译？于是乎我把这段代码COPY进Dev-Cpp编译器，Amazing！居然 编译顺利过，运行也没出错！我突发奇想，如果能在代码中放一段乱码 还不出错，这多是一件装哔的美事，于是便有了下面这段代码</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-comment">//此处省略一些预处理代码</span><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-comment">//我是一段用脸滚的乱码</span><br>    &#x27;\*&#x27;;&#123;1\==&#x27;\\\\&#x27;+&#x27;\`&#x27;?(&#x27;$&#x27;):1;/\*\*\*/~~~!!!((+-+-0001/&#x27;\\&#x27;&#x27;|1/0x9));&#125;;;qbz:///0=d\\e%(<br>    <span class="hljs-comment">//我是一段用手敲的代码</span><br>    <span class="hljs-built_in">cout</span> &lt;&lt; <span class="hljs-string">&quot;新年快乐呀!&quot;</span> &lt;&lt; <span class="hljs-built_in">endl</span>;<br>&#125;<br></code></pre></td></tr></table></figure><p>把上面的代码COPY进你的编译器里运行，你会发现它不仅顺利通过了编译，还成功输出了”新年快乐呀!”，这说明上面那段乱码是符合C++语法的，那到底怎样才能写出符合语法的乱码呢，经过我十多分钟的测试，这里来做一个总结(如果发现错误或有补充请通过下方评论区或通过公告栏中的邮箱告诉我，阿里嘎多！)</p><p>首先是最简单的注释，/***/和///都是常见的注释美化小技巧，其中/***/中的第二个*和///中的最后一个/都是注释内容，被编译器自动省略，所以不会引起任何错误，我们可以像下面这样写注释</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-comment">///////////////////////////////</span><br><span class="hljs-comment">/// /*                      ///</span><br><span class="hljs-comment">/// /*编辑 at 2020年1月14日   ///</span><br><span class="hljs-comment">/// /*编辑 by Space Time     ///</span><br><span class="hljs-comment">/// /*                      ///</span><br><span class="hljs-comment">///////////////////////////////</span><br></code></pre></td></tr></table></figure><p>接下来便是块和语句的开始和结束符了，开篇那段故事讲得便是它，{是块的开始符，}是块的结束符，块中可以写入代码，也可以不写任何东西(空块)，例如int main(){return 0;}中的{}就是一个写入了return 0;的块，而int main(){}中的{}就是一个空块，块可以在代码中套无数层，所以下面这段代码是符合语法的</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123; &#123; &#123; &#123;&#125; &#125; &#125; &#125;<br></code></pre></td></tr></table></figure><p>但值得注意的是，{}不可以在全局作用域中出现，如下面这段代码是错误的</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs c++">&#123;<br>    <span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;&#125;<br>&#125;   <span class="hljs-comment">//报错</span><br></code></pre></td></tr></table></figure><p>语句的结束符;也可以单独出现(空语句)，所以下面这段代码也是符合语法的</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>          ;<br>        ;;;;<br>      ;;;;;;;<br>    ;;;;;;;;;;<br>&#125;<br></code></pre></td></tr></table></figure><p>再接下来是字面量，字面量可以作为一个语句单独出现，另外用于提高优先级的()也是可以套无数层的，所以下面这段代码还是符合语法的</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br><span class="hljs-string">&quot;C++是世界上最好的语言!&quot;</span>; <span class="hljs-number">3.14159</span>;  <br>    (((<span class="hljs-number">3.14159</span>)));  <br>    <span class="hljs-number">1</span> + <span class="hljs-number">1</span>;  <br>    <span class="hljs-literal">true</span> + <span class="hljs-literal">false</span>;  <br>    <span class="hljs-string">&quot;你大爷&quot;</span> == <span class="hljs-string">&quot;你大爷&quot;</span>;  <br>&#125;<br></code></pre></td></tr></table></figure><p>切记不要出现++1这样的错误(因为1是右值)，看懂了上面这段代码，我们再看看下面这段奇葩的代码</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>+<span class="hljs-number">-1</span>;<br>&#125;<br></code></pre></td></tr></table></figure><p>这既不+又不-的玩意到底是个什么鬼啊！But actually，它还是符合语法的，这里的+和-可以理解为正和负，所以+-1其实就是-1，但是由于两个+连在一起就变成了++1(会报错)，两个-连在一起就变成了–1(也会报错)，所以在写这种字面量时必须一+一-地交替写，还弄不清楚可以参考下面这段代码</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123; <br>    +<span class="hljs-number">1</span>;    <span class="hljs-comment">//通过</span><br>    <span class="hljs-number">-1</span>;    <span class="hljs-comment">//通过</span><br>    +<span class="hljs-number">-1</span>;    <span class="hljs-comment">//通过</span><br>    ++<span class="hljs-number">1</span>;    <span class="hljs-comment">//报错</span><br>    -<span class="hljs-number">-1</span>;    <span class="hljs-comment">//报错</span><br>    --+<span class="hljs-number">1</span>    <span class="hljs-comment">//报错</span><br>    +-+<span class="hljs-number">-1</span>;    <span class="hljs-comment">//通过</span><br>    -+-+-+<span class="hljs-number">1</span>;    <span class="hljs-comment">//通过</span><br>&#125;<br></code></pre></td></tr></table></figure><p>最后一个也是最奇葩的，先来看下面这段代码</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    CppJump:<br>    <span class="hljs-number">123</span>;  <br>&#125;<br></code></pre></td></tr></table></figure><p>注意CppJump后面的结束符是:而不是;，没想到吧，这段代码又双叒叕是符合语法的(不用怀疑，我瞎敲得代码永远是符合语法的)，这是因为goto语句的标记是以:结尾的，所以只要你在:前敲的乱码符合goto标记的命名规范，它就不会报错(其实goto标记的命名规范和变量的命名规范是一样的)，但要注意的是，标记后边必须有代码，像下面这样就是错误的</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs C++"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    CppJump: <span class="hljs-comment">//报错</span><br>&#125;<br></code></pre></td></tr></table></figure><p>看到这里你大概已经能够看懂开头那段我用脸滚的代码了，如果你还是看不懂，那可能是因为你不知道下面这些:</p><ol><li><p>C++中以0开头的字面量是八进制数</p></li><li><p>C++中以0x开头的字面量是十六进制数</p></li><li><p>/是÷的意思</p></li><li><p>|是逻辑运算符 或</p></li><li><p>!是逻辑运算符 非</p></li><li><p>~是位运算符 按位取反</p></li><li><p>\\是转义字符 \</p></li><li><p>\‘是转义字符 ‘</p></li><li><p>‘可以隐式转换为它对应的ASCLL码(我记得好像是39)</p></li><li><p>三目运算符语法是 判断我是true还是false?是true取我:是false取我; (具体请自行gulugulu)</p></li><li><p>•ᴗ•</p></li></ol>]]></content>
+    
+    
+    <summary type="html">你知道C++可以运行乱码吗?</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="C++" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/C/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="SoftWare" scheme="https://blog.spacetimee.xyz/tags/SoftWare/"/>
+    
+    <category term="C++" scheme="https://blog.spacetimee.xyz/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给博客添加网易云外链时掉的坑</title>
+    <link href="https://blog.spacetimee.xyz/2021/01/30/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%BD%91%E6%98%93%E4%BA%91%E5%A4%96%E9%93%BE%E6%97%B6%E6%8E%89%E7%9A%84%E5%9D%91/"/>
+    <id>https://blog.spacetimee.xyz/2021/01/30/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%BD%91%E6%98%93%E4%BA%91%E5%A4%96%E9%93%BE%E6%97%B6%E6%8E%89%E7%9A%84%E5%9D%91/</id>
+    <published>2021-01-30T05:21:58.000Z</published>
+    <updated>2023-08-08T08:28:36.454Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在装修我的博客，由于自己没什么脑子，也掉了不少的坑  </p><p>以前进别人的博客里看文章，看着看着耳机里就突然开始放歌，往下一翻，哟！骚操作，网页里还放了个网易云播放器，网上一查，原来是个叫网易云外链的玩意儿，还是网易云音乐自动生成的，我也去弄一个</p><p>打开网易云音乐官网 [<a href="https://music.163.com/">传送门</a>] (一定要用网页版)。网易云外链可以链一首歌，也可以链一整个歌单，如果放一首歌，就直接在网站上搜歌，进播放页面，点”生成外链播放器”。如果弄歌单，就进你要的歌单，操作和前面差不多</p><p>接下来你会看到一个 iframe 插件和一个 flash 插件，这个时候千万不要上当了，很多网上教程说博客园不支持 iframe，必须用 flash，好多人就选了 flash 插件，复制粘贴，本以为大功告成的时候却发现啥都没显示出来</p><p>正确的操作是选择 iframe，然后把 HTML 代码中的 iframe 改成 embed (记得加上小尾巴)。如果想屏幕大小自适应的话，可以把代码中的 width 值改为 100%</p><p><strong>大功告成! •ᴗ•</strong></p>]]></content>
+    
+    
+    <summary type="html">最详细的权威教程，最NB的避坑大法</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="HTML" scheme="https://blog.spacetimee.xyz/categories/%E6%8A%80%E6%9C%AF/HTML/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="HTML" scheme="https://blog.spacetimee.xyz/tags/HTML/"/>
+    
+    <category term="Web" scheme="https://blog.spacetimee.xyz/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BEGINNING</title>
+    <link href="https://blog.spacetimee.xyz/2021/01/30/BEGINNING/"/>
+    <id>https://blog.spacetimee.xyz/2021/01/30/BEGINNING/</id>
+    <published>2021-01-30T05:18:56.000Z</published>
+    <updated>2023-09-20T00:49:27.488Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>THIS IS THE BEGINNING OF EVERYTHING •ᴗ•</strong></p>]]></content>
+    
+    
+    <summary type="html">Let&#39;s Start!</summary>
+    
+    
+    
+    <category term="公告" scheme="https://blog.spacetimee.xyz/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="•ᴗ•" scheme="https://blog.spacetimee.xyz/tags/%E2%80%A2%E1%B4%97%E2%80%A2/"/>
+    
+    <category term="公告" scheme="https://blog.spacetimee.xyz/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
