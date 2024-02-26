@@ -1,12 +1,12 @@
 ---
-title: C++乱码从入门到放弃
+title: C艹 乱码从入门到放弃
 date: 2021-01-30 14:32:06
 tags: [•ᴗ•, SoftWare, C++]
 categories: 
   - 技术
   - C++
-excerpt: 你知道C++可以运行乱码吗?
-index_img: /img/index/C++乱码从入门到放弃.png
+excerpt: 你知道 C艹 可以运行乱码吗?
+index_img: /img/index/C艹 乱码从入门到放弃.png
 ---
 
 **(本文采用C++11标准) (本文使用到的库文件:iostream)**
