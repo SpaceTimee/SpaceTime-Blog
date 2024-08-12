@@ -933,7 +933,7 @@ links:
       avatar: '/img/avatar/catrol.png'
     }
     - {
-      title: 'ObjShadow's Blog',
+      title: 'ObjShadow''s Blog',
       intro: 'Maybe a Censorship Researcher.',
       link: 'https://objshadow.pages.dev/',
       avatar: '/img/avatar/objshadow.png'
