@@ -927,22 +927,16 @@ links:
       avatar: '/img/avatar/nicebowl.png'
     }
     - {
-      title: '北煦のBlog',
-      intro: 'Keep on going never give up',
-      link: 'https://sleexy.gitee.io/',
-      avatar: '/img/avatar/sleexy.png'
-    }
-    - {
       title: '常青园晚のBlog',
       intro: '一个爱编程的极客',
       link: 'https://blog.catrol.cn/',
       avatar: '/img/avatar/catrol.png'
     }
     - {
-      title: '九华检测',
-      intro: '公正，科学，守信，高效',
-      link: 'https://a3.rabbitpre.com/m2/aUe1ZjbiYd',
-      avatar: '/img/avatar/jiuhua.png'
+      title: 'ObjShadow's Blog',
+      intro: 'Maybe a Censorship Researcher.',
+      link: 'https://objshadow.pages.dev/',
+      avatar: '/img/avatar/objshadow.png'
     }
 
   # 当成员头像加载失败时，替换为指定图片
