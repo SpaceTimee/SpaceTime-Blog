@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/icon/favicon.ico
+favicon: /img/icon/favicon.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/icon/favicon.ico
+apple_touch_icon: /img/icon/favicon.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -422,13 +422,13 @@ footer:
   beian:
     enable: false
     # ICP证号
-    icp_text: 京ICP证123456号
+    icp_text: ''
     # 公安备案号，不填则只显示ICP
-    police_text: 京公网安备12345678号
+    police_text: ''
     # 公安备案的编号，用于URL跳转查询
-    police_code: 12345678
+    police_code: ''
     # 公安备案的图片. 为空时不显示备案图片
-    police_icon: /img/icon/police.png
+    police_icon: ''
 
 
 #---------------------------
@@ -438,7 +438,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/banner/default.png
+  banner_img: /img/banner/default.webp
 
   # 头图高度，屏幕百分比 *
   # Height ratio of banner image
@@ -510,13 +510,13 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/banner/post.png
+  banner_img: /img/banner/post.webp
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img: /img/index/index.png
+  default_index_img: /img/index/index.webp
 
   # 文章标题下方的元信息
   # Meta information below title
@@ -804,7 +804,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/banner/archive.png
+  banner_img: /img/banner/archive.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -816,7 +816,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/banner/category.png
+  banner_img: /img/banner/category.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -846,7 +846,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/banner/tag.png
+  banner_img: /img/banner/tag.webp
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -864,7 +864,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/banner/about.png
+  banner_img: /img/banner/about.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -889,7 +889,7 @@ about:
 #---------------------------
 page:
   enable: true
-  banner_img: /img/banner/log.png
+  banner_img: /img/banner/log.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -901,7 +901,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/banner/404.png
+  banner_img: /img/banner/404.webp
   banner_img_height: 85
   banner_mask_alpha: 0.3
   subtitle: 'Page not found'
@@ -913,7 +913,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/banner/links.png
+  banner_img: /img/banner/links.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle: 友链

@@ -5,7 +5,7 @@ tags: [•ᴗ•, 公告]
 categories: 
   - 公告
 excerpt: 食用前请先阅读此文档
-index_img: /img/index/SpaceTime Blog 使用文档.png
+index_img: /img/index/SpaceTime Blog 使用文档.webp
 sticky: 1
 math: true
 ---

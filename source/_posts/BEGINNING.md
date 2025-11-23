@@ -5,7 +5,7 @@ tags: [•ᴗ•, 公告]
 categories:
   - 公告
 excerpt: Let's Start!
-index_img: /img/index/BEGINNING.png
+index_img: /img/index/BEGINNING.webp
 ---
 
 **THIS IS THE BEGINNING OF EVERYTHING •ᴗ•**
