@@ -5,6 +5,9 @@
 ## 自我介绍
 **SpaceTime Blog**: 一只基于 **Hexo** 的博客
 
+## 部署地址
+[https://blog.spacetimee.xyz](https://blog.spacetimee.xyz)
+
 ## 开发者
 **Space Time**
 
