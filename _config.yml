@@ -104,6 +104,13 @@ feed:
   path: atom.xml
   limit: false
 
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
