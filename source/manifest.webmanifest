@@ -1,0 +1,16 @@
+{
+  "name": "SpaceTime Blog",
+  "short_name": "SpaceTime Blog",
+  "description": "Welcome To My Blog ~",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2f4154",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/img/icon/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
